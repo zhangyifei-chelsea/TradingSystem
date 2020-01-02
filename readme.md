@@ -2,7 +2,7 @@
 
 ## Description
 
-This project simulates an electronic trading market in which  clients can **buy** or **sell** equity. The system will not only match orders but also output transaction information specified by some command line arguments. For detailed descriptions and usages, please refer to .
+This project simulates an electronic trading market in which  clients can **buy** or **sell** equity. The system will not only match orders but also output transaction information specified by some command line arguments. For detailed descriptions and usages, please refer to [p4.pdf](https://github.com/zhangyifei-chelsea/TradingSystem/blob/master/p4.pdf).
 
 ## Sample IO
 
